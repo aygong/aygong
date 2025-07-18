@@ -1,5 +1,5 @@
 - :wave: Hi, I'm Aoyu Gong
 - :seedling: I'm currently pursuing a PhD degree at EPFL
 - :signal_strength: I'm interested in networking systems and machine learning
-- :keyboard: I do most of my work in C++, Python, and MATLAB
+- :keyboard: I do most of my work in C/C++, Python, and MATLAB
 - :mailbox: You can find me through email: aoyu.gong@epfl.ch
